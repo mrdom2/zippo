@@ -1,0 +1,202 @@
+@media (max-width: 1199px) {
+  .about img {
+    margin-left: -570px; }
+
+  .order .arse:nth-child(even) {
+    margin: 0 44px; } }
+@media (max-width: 991px) {
+  .modal .modal-dialog {
+    width: 767px !important; }
+
+  .order .arse:nth-child(even) {
+    margin: 0 31px; }
+
+  .modal-content .modal-body .list.first {
+    margin-left: 0px; }
+
+  .logo {
+    width: 65%; }
+
+  .btn {
+    font-size: 11px !important;
+    height: 28px !important; }
+
+  .mainScr .aside, .offerCopy .aside {
+    width: 138px; }
+  .mainScr .mainPart .wrapper h4, .offerCopy .mainPart .wrapper h4 {
+    font-size: 12px;
+    margin-top: 0; }
+  .mainScr .mainPart .wrapper h1.big, .offerCopy .mainPart .wrapper h1.big {
+    font-size: 42px;
+    margin: 0; }
+  .mainScr .mainPart .wrapper h1.price, .offerCopy .mainPart .wrapper h1.price {
+    font-size: 26px; }
+  .mainScr .mainPart .wrapper .list .text, .offerCopy .mainPart .wrapper .list .text {
+    font-size: 14px; }
+  .mainScr .mainPart .wrapper .leftSide, .offerCopy .mainPart .wrapper .leftSide {
+    width: 25%; }
+    .mainScr .mainPart .wrapper .leftSide .timer__heading, .offerCopy .mainPart .wrapper .leftSide .timer__heading {
+      font-size: 12px; }
+    .mainScr .mainPart .wrapper .leftSide .timer__item, .offerCopy .mainPart .wrapper .leftSide .timer__item {
+      height: 42px;
+      width: 42px;
+      font-size: 20px;
+      padding-top: 9px; }
+      .mainScr .mainPart .wrapper .leftSide .timer__item.cent, .offerCopy .mainPart .wrapper .leftSide .timer__item.cent {
+        margin: 0 20px; }
+    .mainScr .mainPart .wrapper .leftSide .timer .text, .offerCopy .mainPart .wrapper .leftSide .timer .text {
+      font-size: 10px;
+      width: 42px;
+      margin-top: 7px; }
+      .mainScr .mainPart .wrapper .leftSide .timer .text.cent, .offerCopy .mainPart .wrapper .leftSide .timer .text.cent {
+        margin: 0 20px; }
+  .mainScr .mainPart .wrapper .leftSide .form input, .mainScr .mainPart .wrapper .leftSide .form select, .offerCopy .mainPart .wrapper .leftSide .form input, .offerCopy .mainPart .wrapper .leftSide .form select {
+    height: 33px !important;
+    font-size: 13px !important;
+    margin-bottom: 10px !important; }
+  .mainScr .mainPart .wrapper .leftSide p.podformoy, .offerCopy .mainPart .wrapper .leftSide p.podformoy {
+    font-size: 12px;
+    width: 110%;
+    margin-left: -10px; }
+  .mainScr .mainPart .wrapper .rightSide .tovarAndOpis, .offerCopy .mainPart .wrapper .rightSide .tovarAndOpis {
+    height: 273px;
+    width: 273px;
+    margin-top: 10px; }
+  .mainScr .mainPart .wrapper .rightSide .tovarAndOpis h3, .offerCopy .mainPart .wrapper .rightSide .tovarAndOpis h3 {
+    font-size: 16px; }
+  .mainScr .mainPart .wrapper .rightSide .tovarAndOpis p.text, .offerCopy .mainPart .wrapper .rightSide .tovarAndOpis p.text {
+    font-size: 12px; }
+  .mainScr .mainPart .wrapper .rightSide .tovarAndOpis img, .offerCopy .mainPart .wrapper .rightSide .tovarAndOpis img {
+    margin-top: 35px;
+    width: 120px; }
+  .mainScr .mainPart .wrapper .leftSide .form, .offerCopy .mainPart .wrapper .leftSide .form {
+    padding-top: 10px; }
+  .mainScr .mainPart .wrapper .rightSide .sale, .offerCopy .mainPart .wrapper .rightSide .sale {
+    width: 83px;
+    height: 83px;
+    font-size: 28px;
+    padding-top: 25px;
+    top: -270px;
+    right: -175px; }
+  .mainScr .aside #menu .navbar-default #men ul li a, .offerCopy .aside #menu .navbar-default #men ul li a {
+    font-size: 12px; }
+  .mainScr .aside #menu .navbar-default #men, .offerCopy .aside #menu .navbar-default #men {
+    padding-left: 15px; }
+  .mainScr .aside button, .offerCopy .aside button {
+    width: 90%; }
+  .mainScr .mainPart .wrapper .leftSide, .offerCopy .mainPart .wrapper .leftSide {
+    padding-top: 20px; }
+  .mainScr .aside, .offerCopy .aside {
+    padding-top: 75px; }
+  .mainScr .aside #menu, .offerCopy .aside #menu {
+    margin-top: 130px; }
+  .mainScr .aside #menu .navbar-default #men ul li, .offerCopy .aside #menu .navbar-default #men ul li {
+    margin-bottom: 20px; }
+
+  .about img {
+    margin-left: -137px; }
+
+  .about h1 {
+    font-size: 32px; }
+
+  .about hr {
+    margin: 30px 0; }
+
+  .about p {
+    font-size: 13px;
+    margin-bottom: 25px; }
+
+  .feedbacks h1 {
+    font-size: 32px; }
+
+  .feedbacks article h4 {
+    font-size: 16px; }
+  .feedbacks article p.feed {
+    font-size: 13px;
+    width: 80%;
+    margin-left: 30px; }
+  .feedbacks article .imgWrap {
+    width: 175px;
+    height: 175px;
+    padding-top: 21px;
+    padding-left: 2px; }
+    .feedbacks article .imgWrap img {
+      width: 130px;
+      height: 130px; }
+
+  .video h1 {
+    font-size: 32px; }
+
+  .order h1 {
+    font-size: 32px; }
+  .order h3 {
+    font-size: 18px; }
+  .order .arse p.text {
+    font-size: 12px; }
+  .order .arse:nth-child(3) img {
+    width: 65% !important; }
+  .order .arse .mainWrap {
+    text-align: center;
+    margin: auto; }
+    .order .arse .mainWrap .iconWrap {
+      height: 110px;
+      width: 110px;
+      margin: auto; }
+      .order .arse .mainWrap .iconWrap img {
+        width: 45%; } }
+@media (max-width: 767px) {
+  .modal .modal-dialog {
+    width: 100% !important; }
+
+  .mainScr, .offerCopy {
+    padding-top: 0;
+    padding-bottom: 50px;
+    background-image: none;
+    background-color: #2a2a2a; }
+    .mainScr .mainPart .wrapper, .offerCopy .mainPart .wrapper {
+      background-color: transparent;
+      padding-bottom: 0; }
+      .mainScr .mainPart .wrapper .list, .offerCopy .mainPart .wrapper .list {
+        display: none; }
+      .mainScr .mainPart .wrapper .rightSide, .offerCopy .mainPart .wrapper .rightSide {
+        margin: auto;
+        width: 100%;
+        display: block; }
+        .mainScr .mainPart .wrapper .rightSide .tovarAndOpis, .offerCopy .mainPart .wrapper .rightSide .tovarAndOpis {
+          background-color: #fff;
+          margin: auto; }
+      .mainScr .mainPart .wrapper .leftSide, .offerCopy .mainPart .wrapper .leftSide {
+        width: 176px;
+        margin: auto; }
+    .mainScr .logoTop, .offerCopy .logoTop {
+      background-color: #000;
+      padding: 15px 0; }
+      .mainScr .logoTop img, .offerCopy .logoTop img {
+        width: 100px; }
+
+  h1, h1 + hr {
+    text-align: center;
+    margin-left: auto !important;
+    margin-right: auto !important; }
+
+  .about img {
+    width: 100%;
+    margin: auto;
+    height: auto; }
+
+  .posterBl {
+    text-align: center;
+    overflow-x: hidden; }
+    .posterBl img {
+      width: 300%;
+      margin-left: -100px; }
+
+  .order .help {
+    display: block !important; }
+    .order .help .arse {
+      margin: 0 10px !important; }
+
+  .feedbacks, .video, .about, .order {
+    padding: 30px 0 50px; } }
+
+/*# sourceMappingURL=main_media.css.map */
